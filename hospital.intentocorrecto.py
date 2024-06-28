@@ -1,6 +1,6 @@
 import json
 import os
-
+hola = 0
 def datos_pacientes():
     datos_paciente = {}
     datos_paciente['nombre'] = input("Ingrese el nombre del paciente: ")
